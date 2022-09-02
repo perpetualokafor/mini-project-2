@@ -1,0 +1,12 @@
+CREATE TABLE y_van_coffee (
+	"index" BIGINT, 
+	name TEXT, 
+	review_count BIGINT, 
+	rating FLOAT, 
+	address TEXT, 
+	city TEXT, 
+	zip_code TEXT, 
+	latitude FLOAT, 
+	longitude FLOAT
+);
+CREATE INDEX ix_y_van_coffee_index ON y_van_coffee ("index");

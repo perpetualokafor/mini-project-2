@@ -1,0 +1,51 @@
+,name,review_count,rating,address,city,zip_code,latitude,longitude
+0,Aperture Coffee Bar,119,4.0,243 W Broadway,Vancouver,V5Y 3L1,49.2632037459,-123.110469593
+1,Paragon Tea Room,59,4.5,2207 Cambie Street,Vancouver,V5Z 2W6,49.2656475,-123.1151059
+2,Caffe Cittadella,150,4.0,2310 Ash Street,Vancouver,V5Z 3C2,49.264809386635505,-123.11726668221056
+3,Modus Coffee Roasters,27,4.5,112 W Broadway,Vancouver,V5Y 1P1,49.2629464,-123.1074362
+4,The Golden Horn Turkish Bakery & Cafe,6,5.0,2857 Cambie Street,Vancouver,V5Z 3Y8,49.25981092848732,-123.11528339982033
+5,Marulilu Cafe,280,4.0,451 W Broadway,Vancouver,V5Y 1R4,49.26338,-123.11415
+6,Elysian Coffee,203,3.5,590 W Broadway,Vancouver,V5Z 1E9,49.26294,-123.11728
+7,One Bowl,12,4.0,693 W Broadway,Vancouver,V5Z 1G6,49.263533857529154,-123.1195716
+8,Tony's Coffee,19,4.5,805 Broadway W,Vancouver,V5Z 1K1,49.26379,-123.12224
+9,Milano Coffee,97,4.0,156 8th Avenue W,Vancouver,V5Y 1N2,49.26359,-123.10872
+10,On the Grind - Pedalling Epic Coffee,4,5.0,,Vancouver,,49.261226,-123.1139268
+11,Whole Food Market,18,4.0,510 W 8th Avenue,Vancouver,V5Z 1C6,49.2640495,-123.1150513
+12,Johnnycantsurf Coffee,1,5.0,525 W 10th Avenue,Vancouver,V5Z 1K9,49.2623804,-123.116024
+13,K Cafe,20,4.0,2533 Heather Street,Vancouver,V5Z 3J2,49.2630081,-123.1200714
+14,Deja Brew,51,4.5,943 W Broadway,Vancouver,V5Z 4E1,49.2636604,-123.1251297
+15,Rocanini Coffee Roasters,16,4.0,127 W 5th Avenue,Vancouver,V5Y 1H9,49.2666872398032,-123.107811883973
+16,Convivial Cafe and Bakery,8,5.0,680A Leg In Boot Square,Vancouver,V5Z 4B4,49.2675426,-123.1196639
+17,Cultured Coffee & Tea,15,3.5,113 555 W 12 Avenue,Vancouver,V5Z 3X7,49.26086,-123.11629
+18,Foret Noire Patisserie,56,4.0,236 West Broadway,Vancouver,V5Y 1P6,49.26284,-123.11051
+19,Bean Around The World Coffees,4,5.0,820 West 10th Avenue,Vancouver,V5Z 1M9,49.2622651,-123.1233547
+20,Simit Bakery,33,4.5,191 West Broadway,Vancouver,V5Y 1P4,49.2632345,-123.1087722
+21,The Press Room,8,4.0,1778 Columbia Street,Vancouver,V5Y 4A1,49.2694971,-123.1092951
+22,Cafe Ami,9,4.0,899 W 12th Avenue,Vancouver,V5Z,49.260803,-123.123994
+23,JJ Bean Coffee Roasters,38,4.0,3399 Cambie Street,Vancouver,V5Z 2W6,49.2550248620133,-123.115302802248
+24,Starbucks,3,4.5,502 W Broadway,Vancouver,V5Z 1E9,49.2630656387451,-123.11513688415289
+25,Cafe & Life Co.,8,4.5,511 W 7th Avenue,Vancouver,V5Z 2T5,49.265218,-123.116184
+26,Cafe Tica,15,4.5,2408 Alberta Street,Vancouver,V5Y 3Y6,49.2637017,-123.1108151
+27,The Mighty Oak,42,4.5,198 W 18th Avenue,Vancouver,V5Y 2A5,49.25470697013,-123.109722571412
+28,Blenz Coffee,21,3.5,695 West Broadway,Vancouver,V5Z 1G6,49.2634411,-123.1198158
+29,Passion8 Dessert Cafe,199,4.0,3010 Cambie Street,Vancouver,V5Z 2V9,49.258435242883,-123.11499774456
+30,JJ Bean Coffee Roasters,38,4.5,188 W 1st Avenue,Vancouver,V5Y 1A4,49.27015,-123.109227
+31,Solly's Bagelry,237,2.5,368 W 7th Avenue,Vancouver,V5Y 1M4,49.26456656499285,-123.11249187055225
+32,Pekoe Tea Lounge,74,3.5,895 W Broadway,Vancouver,V5Z 1J9,49.2635135,-123.1239133
+33,Cheyenne Coffee,1,5.0,,Vancouver,,49.261226,-123.1139268
+34,Willow Cafe Bakery,28,4.0,797 W 16th Avenue,Vancouver,V5Z 1S8,49.2571515,-123.1217817
+35,Blenz Coffee,13,3.0,521 West Broadway,Vancouver,V5Z 1E6,49.2633781,-123.1161611
+36,Yolks,329,3.5,546 W Broadway,Vancouver,V5Z 1E9,49.2631139,-123.1163529
+37,Sharetea,45,4.0,2828 Cambie Street,Vancouver,V5Z 2V5,49.2599346,-123.1148551
+38,Halfday Tea + Flower,5,4.0,895  W Broadway,Vancouver,V5Z 3T2,49.2635709085802,-123.124036450926
+39,Lemonade Gluten Free Bakery,126,4.5,3385 Cambie Street,Vancouver,V5Z 2W6,49.2551572,-123.115342
+40,Tractor,24,3.5,601 W Broadway,Vancouver,V5Z 4C2,49.2634674383775,-123.118251698812
+41,Dutch Wooden Shoe Cafe,99,3.5,3292 Cambie Street,Vancouver,V5Z 2W4,49.2560017,-123.114899418709
+42,Whole Foods Market,243,3.5,510 W 8th Avenue,Vancouver,V5Z 1C5,49.26402055149368,-123.115276
+43,Java Express,2,4.0,675 W 10th Avenue,Vancouver,V5Z 1G1,49.26258,-123.11872
+44,Starbucks,13,3.0,2035 Yukon Street,Vancouver,V5Y 3W3,49.267332,-123.1129217
+45,Velo Star Cafe,2,3.0,3195 Heather St,Vancouver,V5W 3K3,49.2571627,-123.1202562
+46,Sungiven Foods,20,3.5,555 W 12th Avenue,Vancouver,V5Z 3X7,49.26090172988721,-123.11688270345482
+47,Joti's No Frills,62,3.5,310 W Broadway,Vancouver,V5Y 1R2,49.2628440630992,-123.111865692887
+48,Bean So Good Cafe,1,4.0,2533 Heather street,Vancouver,V5Z 3J2,49.2630067,-123.1200749
+49,Uno Gelato,12,5.0,601 Stamps Landing,Vancouver,V5Z 3Z1,49.2690961861894,-123.118500709534
